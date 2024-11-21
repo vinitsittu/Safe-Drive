@@ -1,0 +1,13 @@
+imutils==0.5.3
+opencv-contrib-python==4.2.0.34
+opencv-python~=4.8.1.78
+dlib~=19.24.2
+numpy==1.22.0
+cmake==3.18.0
+scipy~=1.9.1
+
+requests~=2.31.0
+uvicorn~=0.31.0
+fastapi~=0.115.0
+pydantic~=2.6.0
+matplotlib~=3.5.1
