@@ -9,7 +9,7 @@
 
 > A real-time drowsiness detection system for drivers, which alerts the driver if they fall asleep due to fatigue while still driving. The computer vision algorithm used for the implementation uses a trifold approach to detect drowsiness, including the measurement of forward head tilt angle, measurement of eye aspect ratio (to detect closure of eyes) and measurement of mouth aspect ratio (to detect yawning).
 
-### 🏠 [Homepage](https://github.com/neelanjan00/Driver-Drowsiness-Detection)
+### 🏠 [Homepage](https://github.com/vinitsittu/Safe-Drive)
 
 ## Install
 
@@ -23,14 +23,6 @@ pip install -r Requirements.txt
 python Driver\ Drowsiness\ Detection.py
 ```
 
-## Author
-
-👤 **Neelanjan Manna**
-
-* Website: https://neelanjanmanna.ml/
-* Twitter: [@NeelanjanManna](https://twitter.com/NeelanjanManna)
-* Github: [@neelanjan00](https://github.com/neelanjan00)
-* LinkedIn: [@neelanjan00](https://linkedin.com/in/neelanjan00)
 
 ## Show your support
 
